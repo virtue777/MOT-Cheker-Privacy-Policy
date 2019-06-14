@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-Virtue Apps built the MOT Checker app as an Ad Supported app. This SERVICE is provided by Gundog Apps at no cost and is intended for use as is.
+Virtue Apps built the MOT Checker app as an Ad Supported app. This SERVICE is provided by Virtue Apps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
